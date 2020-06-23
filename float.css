@@ -1,0 +1,44 @@
+.p1 {
+    text-align: right;
+}
+
+.p2 {
+    text-align: justify;
+}
+
+.p3 {
+    text-align: center;
+}
+
+.p4, .p5, .p6, .p8 {
+    text-align: center;
+}
+
+.p7 {
+    text-align: left;
+}
+
+.carre1, .carre2, .carre3, .carre4 {
+    height: 100px;
+    width: 100px;
+}
+
+.carre1 {
+    background-color: red;
+    float: right;
+}
+
+.carre2 {
+    background-color: blue;
+    float: right;
+}
+
+.carre3 {
+    background-color: yellow;
+    float: right;
+}
+
+.carre4 {
+    background-color: green;
+    float: right;
+}

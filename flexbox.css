@@ -1,0 +1,61 @@
+.boite {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    color: white;
+    margin: 5px;
+}
+
+.container {
+    display: flex;
+    
+}
+
+.column {
+    flex-direction: column;
+}
+
+.columnreverse {
+    flex-direction: column-reverse;
+}
+
+/* wrap = comme le inline bloc responsive*/
+.wrap {
+    flex-wrap: wrap;
+}
+
+.photo {
+    width: 500px;
+    margin: 5px;
+}
+
+.wrap2 {
+    flex-wrap: wrap;
+}
+
+.flex-start {
+    justify-content: flex-start;
+
+}
+
+.flex-center {
+    justify-content: center;
+}
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+.container2 {
+    display: flex;
+    border: 2px solid black;
+    height: 600px;
+}
+
+.j-space-around {
+    justify-content: space-around;
+}
+
+.alignc-flexstart {
+    align-content: space-around;    
+}

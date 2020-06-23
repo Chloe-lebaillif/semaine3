@@ -1,0 +1,44 @@
+body {
+    font-family: Georgia;
+}
+
+h1 {
+    background-color: lightskyblue;
+    color: rgb(18, 40, 105);
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    line-height: 1.7;
+}
+
+h2 {
+    text-align: left;
+}
+
+img {
+    width: 350px;
+}
+
+.pays-bas {
+    float: left;
+    margin-right: 20px;
+}
+
+.bas {
+    text-align: left;
+}
+
+.japon {
+    float: right;
+    margin-left: 20px;
+}
+
+.j, .jap {
+    margin-left: 20px;
+}
+
+
+

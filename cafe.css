@@ -17,10 +17,24 @@ a {
     color: white;
 }
 
-a:hover {
-    background-color: #444444;
+a:hover {   
+    background-color: gray;
+    padding: 25px;
+}
+
+.button {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
     padding: 20px;
 }
+
 
 h1 {
     font-size: 25px;
@@ -49,4 +63,18 @@ li {
 .cafe {
     letter-spacing: 0.5px;
     line-height: 1.9em;
+}
+
+.nouveau {
+    display: inline-block;
+    padding: 50px;
+}
+
+
+.parallax2 {
+    background-image: url("https://images.unsplash.com/photo-1525445842399-d8a6bec24be2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    color: white;
 }
